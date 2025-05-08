@@ -1,0 +1,3 @@
+br\com\benchmark\pdfbox\Application.class
+br\com\benchmark\pdfbox\PdfBenchmarkService.class
+br\com\benchmark\pdfbox\PdfBenchmarkController.class
